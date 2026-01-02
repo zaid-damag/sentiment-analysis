@@ -24,9 +24,6 @@ uv install
 
 ---
 
-## ✔️ إضافة كاملة لقسم README من قبل
-
-هذي نسخة محدثة من README تتضمن خطوات التنزيل:
 
 ```markdown
 # Sentiment Analysis Project
