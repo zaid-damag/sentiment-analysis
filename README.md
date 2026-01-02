@@ -112,7 +112,7 @@ uv run python src/models/esp32.py
 
 ---
 
-## 👥 Students
+## 👥 Engineers:
 
 * **Ali Al-Khaledi** – 202270295
 * **Zaid Damag** – 202170119
